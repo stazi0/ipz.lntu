@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Application2</string>
+    <string name="TextView2">Вітаю! Андрій</string>
+    <string name="TextView1">З днем народження!</string>
 </resources>
